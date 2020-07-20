@@ -82,6 +82,12 @@
                     <view key="view" contentMode="scaleToFill" id="rIi-jf-jMU">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Flamingo : TEENAGE RIOT" translatesAutoresizingMaskIntoConstraints="NO" id="b6v-7A-DmC">
+                                <rect key="frame" x="87" y="130" width="240" height="240"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="fGO-jv-MQr"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
@@ -116,6 +122,12 @@
                     <view key="view" contentMode="scaleToFill" id="yGN-D5-88R">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Uma to Shika" translatesAutoresizingMaskIntoConstraints="NO" id="vc5-4a-Te9">
+                                <rect key="frame" x="87" y="130" width="240" height="240"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="m9u-z4-rIx"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
@@ -132,6 +144,12 @@
                     <view key="view" contentMode="scaleToFill" id="X9o-wP-41C">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Lemon" translatesAutoresizingMaskIntoConstraints="NO" id="eQI-2G-xXC">
+                                <rect key="frame" x="87" y="130" width="240" height="240"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="loS-DB-GR1"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
